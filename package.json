@@ -1,0 +1,15 @@
+{
+    "name": "nuxt-typeform-example",
+    "version": "1.0.0",
+    "private": false,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "nuxt": "^2.14.0",
+        "nuxt-typeform": "0.0.1"
+    }
+}
